@@ -1,0 +1,7 @@
+[package]
+name = "my_tests"
+version = "0.1.0"
+authors = ["jotomicron <jotomicron@gmail.com>"]
+
+[dependencies]
+rand = "*"

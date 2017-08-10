@@ -1,0 +1,4 @@
+[package]
+name = "uv_unwrap"
+version = "0.1.0"
+authors = ["João Ferreira <jotomicron@gmail.com>"]

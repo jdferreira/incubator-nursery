@@ -1,0 +1,8 @@
+[package]
+name = "surface"
+version = "0.1.0"
+authors = ["João Ferreira <jotomicron@gmail.com>"]
+
+[dependencies]
+image = "*"
+num = "*"

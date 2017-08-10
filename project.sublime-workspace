@@ -1,0 +1,1181 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ExA",
+				"ExtrusionAlgorithm Trait (extrusion.rs) : trait ExtrusionAlgorithm                             "
+			],
+			[
+				"Has",
+				"HashMap::new\t(mesh.rs)"
+			],
+			[
+				"sha",
+				"sharp_edges"
+			],
+			[
+				"norm",
+				"normalize\t(vector.rs)"
+			],
+			[
+				"conti",
+				"continue\t(mesh.rs)"
+			],
+			[
+				"Resul",
+				"Result Type (error.rs) : pub type Result<T> = result::Result<T, Error>"
+			],
+			[
+				"par",
+				"parts"
+			],
+			[
+				"max",
+				"max_vertex"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"get_",
+				"get_mesh Function (main.rs) : fn get_mesh(path: &str) -> Mesh {"
+			],
+			[
+				"vec",
+				"vector Module (vector.rs) : /home/joao/Dropbox/Projects/BodyCreation.rs/uv_unwrap/src/vector.rs"
+			],
+			[
+				"mesh",
+				"mesh Module (mesh.rs) : /home/joao/Dropbox/Projects/BodyCreation.rs/uv_unwrap/src/mesh.rs"
+			],
+			[
+				"pos",
+				"positions"
+			],
+			[
+				"read",
+				"reading_triangles"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"MAX",
+				"MAX_IDX"
+			],
+			[
+				"ex",
+				"extrude_not_crossed"
+			],
+			[
+				"extr",
+				"extrude_crossed"
+			],
+			[
+				"po",
+				"point_index"
+			],
+			[
+				"neigh",
+				"neighbor"
+			],
+			[
+				"Sur",
+				"Surface"
+			],
+			[
+				"ver",
+				"vertices_to_edges StructField (surface.rs) : vertices_to_edges                                                                   "
+			],
+			[
+				"surface",
+				"surface       Let (main.rs) : let mut surface = surface::Surface::new()                         "
+			],
+			[
+				"sp",
+				"spread"
+			],
+			[
+				"SurP",
+				"SurfacePoint Struct (surface.rs) : pub struct SurfacePoint {               "
+			],
+			[
+				"Vector",
+				"Vector3d"
+			],
+			[
+				"nor",
+				"normalize"
+			],
+			[
+				"Vec",
+				"Vector3d"
+			],
+			[
+				"time",
+				"time_step"
+			],
+			[
+				"move",
+				"move_points"
+			],
+			[
+				"up",
+				"update_velocities"
+			],
+			[
+				"surf",
+				"surface"
+			],
+			[
+				"new",
+				"new_degree\t(surface.rs)"
+			],
+			[
+				"pa",
+				"pair_to_edge      StructField (surface.rs) : pair_to_edge                                                   "
+			],
+			[
+				"Rf",
+				"RefCell Struct (cell.rs) : pub struct RefCell<T> {"
+			],
+			[
+				"RefCe",
+				"RefCell Struct (cell.rs) : pub struct RefCell<T> {"
+			],
+			[
+				"Surf",
+				"SurfacePoint"
+			],
+			[
+				"str",
+				"struct\tstruct … { … }"
+			],
+			[
+				"struct",
+				"struct\tstruct … { … }"
+			],
+			[
+				"SUrf",
+				"SurfacePoint"
+			],
+			[
+				"lati",
+				"latitude"
+			],
+			[
+				"longi",
+				"longitude"
+			],
+			[
+				"Su",
+				"SurfacePoint Struct (surface.rs) : pub struct SurfacePoint {"
+			],
+			[
+				"chu",
+				"chunk_width        Let (surface.rs) : let chunk_width = width as f64 / 32.0             "
+			],
+			[
+				"x_tr",
+				"x_triangle_end"
+			],
+			[
+				"x_tri",
+				"x_triangle_start"
+			],
+			[
+				"N",
+				"NEG_INFINITY"
+			],
+			[
+				"x_s",
+				"x_shift       Let (main.rs) : let x_shift = x - x_chunk_start         "
+			],
+			[
+				"x_",
+				"x_chunk_start"
+			],
+			[
+				"y_",
+				"y_top"
+			],
+			[
+				"Vect",
+				"Vector3d Struct (surface.rs) : pub struct Vector3d(f64, f64, f64)"
+			],
+			[
+				"min",
+				"min_max    Function (main.rs) : fn min_max<T>(acc: (T, T), val: T) -> (T, T) {                                             "
+			],
+			[
+				"surfac",
+				"surface Module (surface.rs) : /home/joao/Dropbox/Projects/BodyCreation.rs/surface/src/surface.rs"
+			],
+			[
+				"sur",
+				"surface Module (surface.rs) : /home/joao/Dropbox/Projects/BodyCreation.rs/surface/src/surface.rs"
+			],
+			[
+				"res",
+				"rustc_resolve  Module (lib.rs) : rustc_resolve "
+			],
+			[
+				"result",
+				"rustc_resolve  Module (lib.rs) : rustc_resolve "
+			],
+			[
+				"to_",
+				"to_cartesian\t(proj.rs)"
+			],
+			[
+				"to",
+				"to_xyz\t(main.rs)"
+			],
+			[
+				"Fn",
+				"Fn       Trait (ops.rs) : pub trait Fn<Args> : FnMut<Args> {    "
+			],
+			[
+				"heigh",
+				"height FnArg (surface.rs) : height"
+			],
+			[
+				"part",
+				"particles       Let (main.rs) : let particles = vec![                                              "
+			],
+			[
+				"as",
+				"as_slice"
+			],
+			[
+				"width",
+				"width     Let (main.rs) : let width = (scale * 2.0 * PI) as u32  "
+			],
+			[
+				"abs",
+				"abs_inc Let (main.rs) : let abs_inc = (-inc) as u32"
+			],
+			[
+				"strat",
+				"strategy"
+			],
+			[
+				"doc",
+				"documentclass{article}\tNew Article"
+			],
+			[
+				"num",
+				"numberline"
+			],
+			[
+				"unwrap",
+				"unwrap_or         Function (option.rs) : pub fn unwrap_or(self, def: T) -> T"
+			],
+			[
+				"n",
+				"nth              Function (iter.rs) : fn nth(&mut self, mut n: usize) -> Option<Self::Item> where Self: Sized            "
+			],
+			[
+				"to_xy",
+				"to_xyz Function (main.rs) : fn to_xyz(lat: f64, long: f64) -> (f64, f64, f64) {"
+			],
+			[
+				"Part",
+				"Particle"
+			],
+			[
+				"cons",
+				"consts\t(main_old.rs)"
+			],
+			[
+				"Particle",
+				"PartialEq  Trait (cmp.rs) : pub trait PartialEq<Rhs: ?Sized = Self> {                 "
+			],
+			[
+				"to_ca",
+				"to_cartesian Function (main.rs) : fn to_cartesian(lat: f64, long: f64) -> (f64, f64) {  "
+			],
+			[
+				"reason",
+				"reason         IfLet (main.rs) : if let Err(reason) = lodepng::encode_file(path, &image, 2, 2, lodepng::LCT_RGB, 8) {}"
+			],
+			[
+				"Path",
+				"Path    Struct (path.rs) : pub struct Path {   "
+			],
+			[
+				"ast",
+				"is_absolute"
+			],
+			[
+				"chaps",
+				"chapterstyle"
+			],
+			[
+				"subse",
+				"subsection*{title}\tlatex-document"
+			],
+			[
+				"spac",
+				"spacefactor\ttex"
+			],
+			[
+				"hspace",
+				"hspace{length}\tlatex-document"
+			],
+			[
+				"make",
+				"makeatother\tlatex-document"
+			],
+			[
+				"begingroup",
+				"begingroup..\\endgroup\ttex"
+			],
+			[
+				"existen",
+				"existential"
+			],
+			[
+				"end",
+				"end{quote}\tmain.tex"
+			],
+			[
+				"sqsu",
+				"sqsupseteq\tlatex-mathsymbols"
+			],
+			[
+				"begin",
+				"begin{alltt}\tlatex-document"
+			],
+			[
+				"chpre",
+				"chapter*{title}\tlatex-document"
+			],
+			[
+				"section",
+				"section{title}\tlatex-document"
+			],
+			[
+				"trac",
+				"tracingonline"
+			],
+			[
+				"st",
+				"start@abstract"
+			],
+			[
+				"ulth",
+				"ulthesis@lang"
+			],
+			[
+				"appr",
+				"appref\t(mystyle.sty)"
+			],
+			[
+				"ref",
+				"ref{key}\tlatex-document"
+			],
+			[
+				"usep",
+				"usepackage{package}\tlatex-document"
+			],
+			[
+				"Resni",
+				"Resnik1995\t(references.bib)"
+			],
+			[
+				"miss",
+				"missingfigure"
+			],
+			[
+				"cover",
+				"coverpage\t(ulthesis.cls)"
+			],
+			[
+				"aggreg",
+				"aggregate"
+			],
+			[
+				"particu",
+				"particularly"
+			],
+			[
+				"expanda",
+				"expandafer"
+			],
+			[
+				"ulthesichp",
+				"ulthesis@chapter@marker"
+			],
+			[
+				"ulthe",
+				"ulthesis@chapterlist@toks"
+			],
+			[
+				"abstr",
+				"abstract@lang"
+			],
+			[
+				"ulthbib",
+				"ulthesis@bibfile"
+			],
+			[
+				"bibl",
+				"bibliography"
+			],
+			[
+				"abstrac",
+				"abstractorder"
+			],
+			[
+				"ulthesis",
+				"ulthesis@abstractorder"
+			],
+			[
+				"bibstyl",
+				"bibstyle=natbib\t(main.tex)"
+			],
+			[
+				"biblio",
+				"bibliography{file}\tlatex-document"
+			],
+			[
+				"tableof",
+				"tableofcontents\tlatex-document"
+			],
+			[
+				"Inp",
+				"InputIfFileExists"
+			],
+			[
+				"ult",
+				"ulthesis@advisors"
+			],
+			[
+				"ad",
+				"advisor"
+			],
+			[
+				"picture",
+				"begin{picture}(width,height)\tlatex-document"
+			],
+			[
+				"docu",
+				"document\t(recent-sota.txt)"
+			],
+			[
+				"represe",
+				"representation"
+			],
+			[
+				"pon",
+				"pong_fn"
+			],
+			[
+				"ping",
+				"ping_fn"
+			],
+			[
+				"pi",
+				"ping_fn"
+			],
+			[
+				"if",
+				"ifdef\tIfdef Directive"
+			],
+			[
+				"Arg",
+				"ArgumentType"
+			],
+			[
+				"use",
+				"use\tUsepackage (Option)"
+			],
+			[
+				"name",
+				"namespace_node"
+			],
+			[
+				"Name",
+				"NamespaceUnroller"
+			],
+			[
+				"nam",
+				"namespace_node"
+			],
+			[
+				"na",
+				"namespaces"
+			],
+			[
+				"node",
+				"node_to_remove"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Primary Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Choose Quick Build"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 152.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"project",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"swap",
+				"Convert Case: Swap Case"
+			],
+			[
+				"caps",
+				"Convert Case: Swap Case"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"dele",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Build: ",
+				"Build: New Build System"
+			],
+			[
+				"clean",
+				"Build With: LaTeX - Clean up Files"
+			],
+			[
+				"forwa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"build",
+				"Build With: LaTeX"
+			],
+			[
+				"syntex",
+				"Set Syntax: TeX"
+			],
+			[
+				"synlatex",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"syntax tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"syntax latex",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"cache",
+				"LaTeXing: Rebuild Cache (Hard)"
+			],
+			[
+				"env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"defa",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"preferences late",
+				"Preferences: LaTeXing Settings - User"
+			],
+			[
+				"prefrere",
+				"Preferences: LaTeXing Settings - User (Extended)"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"python",
+				"Set Syntax: Python3"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"delete",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"sideb",
+				"Side Bar: Refresh"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"delee",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"en",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"new ",
+				"File: New View into File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 415.0,
+		"history":
+		[
+			"os.environ['RUST_SRC_PATH']",
+			"os.environ['PATH']",
+			"sorted(os.environ.keys())",
+			"os.environ.keys()",
+			"os.environ['RUST_SRC_PATH']",
+			"import os",
+			"os.environ['RUST_SRC_PATH']",
+			"os.environ['PATH']",
+			"os.environ",
+			"import os",
+			"reset"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jferreira/Downloads/titlepage.tex",
+		"/home/jferreira/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/src/libstd/time/mod.rs",
+		"/home/joao/Dropbox/Comprar/casa.txt",
+		"/home/jferreira/Dropbox/Projects/BodyCreation.rs/rust-sublime-environment.sh",
+		"/home/jferreira/Dropbox/Projects/BodyCreation.rs/project.sublime-project",
+		"/home/joao/.cache/.fr-I8BPZ3/graphite3_1.1-i/geogram/src/lib/geogram/delaunay/LFS.cpp",
+		"/home/joao/.cache/.fr-krq5Pw/graphite3_1.1-i/geogram/src/lib/geogram/mesh/mesh_halfedges.cpp",
+		"/home/joao/Downloads/chrome/blender-2.68/source/blender/modifiers/intern/MOD_uvproject.c",
+		"/home/joao/Downloads/chrome/blender-2.68/source/blender/modifiers/intern/MOD_uvwarp.c",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/uv_unwrap/old/old.rs",
+		"/usr/local/src/rust/src/libstd/io/buffered.rs",
+		"/usr/local/src/rust/src/libstd/io/mod.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/uv_unwrap/src/vector.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/uv_unwrap/Cargo.toml",
+		"/usr/local/src/rust/src/libcollections/string.rs",
+		"/usr/local/src/rust/src/libcore/str/pattern.rs",
+		"/usr/local/src/rust/src/libcore/iter.rs",
+		"/usr/local/src/rust/src/libstd/error.rs",
+		"/usr/local/src/rust/src/libstd/path.rs",
+		"/usr/local/src/rust/src/libstd/ffi/os_str.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/body_creator/src/mesh.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/body_creator/src/main.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.blender/blueprint_surface",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/body_creator/src/vector.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/old/surface.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/src/surface.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/body_creator/src/body_symmetric.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/body_creator/src/field.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/old/proj.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/src/main.rs",
+		"/home/joao/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/joao/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/joao/Dropbox/Faculdade/Papers et al/Disjointness/document.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/main.tex",
+		"/home/joao/Dropbox/Faculdade/Research/GO-eval/pubmed_result.txt",
+		"/home/joao/Dropbox/Faculdade/Papers et al/OWLtoSQL-small/document.tex",
+		"/home/joao/Dropbox/Projects/OWLtoSQL/.gitignore",
+		"/home/joao/Downloads/chrome/marlin_yjbin48_53.ris",
+		"/home/joao/Downloads/chrome/info%3Adoi%2F10.1371%2Fjournal.pone.0043558.bib",
+		"/home/joao/Dropbox/Projects/MOSSy.py/mossy/plugins/gic_ui.py",
+		"/home/joao/Dropbox/Projects/MOSSy.py/mossy/plugins/concept_comparers.py",
+		"/home/joao/Dropbox/Projects/MOSSy.py/mossy/plugins/list_comparers.py",
+		"/home/joao/Dropbox/Projects/MOSSy.py/mossy/plugins/subsumption_comparer.py",
+		"/home/joao/Dropbox/Faculdade/Papers et al/GO-eval/document.tex",
+		"/home/joao/Dropbox/Faculdade/Papers et al/MOSSy/references.bib",
+		"/home/joao/Dropbox/Faculdade/Papers et al/OWLtoSQL-small/small-ontology.graphml",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/src/proj.rs",
+		"/home/joao/Dropbox/Faculdade/Papers et al/GO-eval/references.bib",
+		"/home/joao/Dropbox/Faculdade/Papers et al/GO-eval/hierarchy.tex",
+		"/tmp/x",
+		"/home/joao/Dropbox/Faculdade/Papers et al/GO-eval/old/hierarchy-2.tex",
+		"/home/joao/Dropbox/Faculdade/Research/GO-eval/hierarchy.txt",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/Output/main.toc",
+		"/home/joao/Dropbox/Faculdade/Papers et al/GO-eval/out/document.aux",
+		"/home/joao/Dropbox/Faculdade/Papers et al/GO-eval/Makefile",
+		"/home/joao/Dropbox/Faculdade/Research/GO-eval/results_from_pubmed.txt",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/src/main_old.rs",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/Cargo.toml",
+		"/home/joao/Dropbox/Projects/BodyCreation.rs/surface/Cargo.lock",
+		"/home/joao/Dropbox/Projects/OWLIR/src/owl/mod.rs",
+		"/home/joao/Dropbox/Projects/OWLIR/src/io/mod.rs",
+		"/home/joao/.config/sublime-text-3/Packages/User/Rust.sublime-settings",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/04-validation.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/08-conclusions.tex",
+		"/home/joao/Dropbox/Faculdade/Research/GO-eval/README",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/09-conclusions.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/07-validation.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/08-results.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/diff",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/07-validation-new.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/references.bib",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/07-table.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/06-technical.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/ulthesis.cls",
+		"/media/joao/3store/Entertainment/Jonathan Strange and Mr Norrell/04 All the Mirrors of the World.srt",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/notes/typo-notes.txt",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/03-state-of-the-art.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/mystyle.sty",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/05-semantic-similarity.tex",
+		"/home/joao/Dropbox/Faculdade/Papers et al/OWLtoSQL/document.tex",
+		"/home/joao/Dropbox/Faculdade/Papers et al/OWLtoSQL/references.bib",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/04-data-description.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/01-introduction.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/notes-jlo/notes.txt",
+		"/home/joao/Dropbox/Faculdade/Papers et al/Disjointness/references.bib",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/Output/main.log",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/0-macros.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/notes/5-semantic-simlarity.txt",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/3-sota.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/Classes/FCULthesisPSnPDF.cls",
+		"/usr/share/texlive/texmf-dist/doc/latex/setspace/README",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/main.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/Output/content/05-semantic-similarity.aux",
+		"/home/joao/Dropbox/Good Games/clickerHeroSave.txt",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/4-preliminary.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/notes/c-auxilliary.txt",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/02-concepts.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/07-results.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/appendix-c.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/09-future-work.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tese.sublime-project",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/Output/main.bbl",
+		"/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/6-alignment.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/notes/4-data.txt",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/appendix-b.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/out/main.log",
+		"/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex",
+		"/home/joao/Downloads/chrome/DS1",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/content/appendix-a.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/build.sh",
+		"/home/joao/.config/sublime-text-3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/make",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/Makefile",
+		"/tmp/y",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/05-semantic-similarity.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/07-auxiliary.tex",
+		"/home/joao/.config/sublime-text-3/Packages/User/LaTeXing.sublime-settings",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/main.bbl",
+		"/home/joao/.config/sublime-text-3/Packages/User/LaTeX.sublime-build",
+		"/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/01-introduction.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/5-acquisition.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/prova-qualificacao/2-concepts.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/02-concepts.tex",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/references.bib",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/out/main.ux",
+		"/home/joao/Dropbox/Faculdade/PhD/tese/tex/out/main.tdo"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.tex",
+			"",
+			"*.tex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"move_inside_upward",
+			"self",
+			"cos_a",
+			"wrap",
+			"f32",
+			"continue",
+			"for",
+			"neighbours",
+			"\\bfn\\b",
+			"genome",
+			"BodyBuilder",
+			"//",
+			"max_vertex + 1) as usize);",
+			"i32",
+			"unwrap",
+			"char_at_reverse",
+			"Lines",
+			"lines\\(\\)",
+			"\"1\\.[^0]",
+			"\"1\\.0",
+			"\"1\\.[^0]",
+			"Repeat",
+			"Repeat<A>",
+			"Repeat",
+			"for OsStr",
+			"for Display",
+			"self.positions.len() - 1",
+			"symmetry plane",
+			"MAX",
+			"new_vertices",
+			"isize",
+			"-1",
+			"isize",
+			"usize",
+			"locked",
+			"A Mesh cotnains",
+			"prev_",
+			"ni",
+			"pi",
+			"neighbor",
+			"point",
+			"neighbor",
+			"edge",
+			"PointRecord",
+			"abs_inc",
+			" * ",
+			"position",
+			"use",
+			"buf",
+			"Buf",
+			"buf",
+			"INFINITY",
+			"NEG_INFINITY",
+			"result",
+			"p",
+			"* there",
+			"pair_to_edge",
+			"\\[",
+			"borrow",
+			"edge.borrow()",
+			"edge",
+			"new",
+			"pair_to_edge",
+			"edge",
+			"1",
+			"particle",
+			"Vector3D",
+			"c",
+			"Vector3D",
+			"Vector3d",
+			"Vector3D",
+			"pos",
+			":",
+			"longitude",
+			"1",
+			"new_ref",
+			"tude",
+			"f",
+			".sin",
+			".cos",
+			"lat",
+			"x_chunk as f64",
+			"as usize",
+			"NEG_INFINITY",
+			"y",
+			"\t\n",
+			"open",
+			"owlsql",
+			"^26",
+			";",
+			"\n(",
+			"};\n",
+			";",
+			"computational app",
+			"directional",
+			"\\section",
+			"provided",
+			"graphic",
+			"whether they",
+			"whether",
+			"^\\d+",
+			"^0+",
+			"^..\\.",
+			"^.\\.",
+			"^\\d+\\. .*$(?:(?!\\n[^\\n]))",
+			"^\\d+\\. ",
+			"^\\d+\\. .*$(?:(?=\\n[^\\n])\\n.*)",
+			"^\\d+\\..*",
+			"test",
+			"1~",
+			"contextual",
+			"f64",
+			"val",
+			"T",
+			"particle",
+			"\n            ",
+			"proj::to_rad",
+			"=",
+			"pub fn",
+			"fn",
+			"if",
+			"x",
+			"y",
+			"n_inc",
+			"x",
+			"i",
+			"u",
+			"return "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\\\todoinline",
+			"concept",
+			"chpref",
+			"\\\\\\1ref",
+			"\\\\term{\\1}",
+			"\\\\emph{\\1}",
+			"``\\1''",
+			"\\1\\2\\n\\1",
+			"\\\\texttt{\\2}",
+			"\\\\texttt{\\1}",
+			"\\texttt{\\1}",
+			"textsf",
+			"",
+			"; \\\\\\n",
+			"; \\",
+			",",
+			"\\n",
+			"",
+			" \\",
+			" \\\\",
+			"~\\\\ref",
+			"~\\ref"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 440.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inver",
+				"inverse_cdf"
+			],
+			[
+				"genom",
+				"Genome"
+			]
+		],
+		"width": 592.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

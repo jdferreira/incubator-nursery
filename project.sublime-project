@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"env_file": {
+			"Linux": "./rust-sublime-environment.sh"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+[package]
+name = "incubator"
+version = "0.1.0"
+authors = ["João Ferreira <jotomicron@gmail.com>"]
+
+[dependencies]
+itertools = "0.5.7"
